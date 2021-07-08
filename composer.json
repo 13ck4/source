@@ -1,5 +1,5 @@
 {
-    "name": "source/hello-world",
+    "name": "source/luat-render",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",

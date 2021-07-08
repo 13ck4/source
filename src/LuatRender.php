@@ -1,6 +1,6 @@
 <?php
-namespace source\SayHello;
-class SayHello
+namespace source\LuatRender;
+class LuatRender
 {
     public static function world()
     {
