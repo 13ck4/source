@@ -1,5 +1,5 @@
 {
-    "name": "kynm/hello-world",
+    "name": "source/hello-world",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "source\\SayHello\\": "src/"
         }
     }
 }
